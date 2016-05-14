@@ -1,0 +1,28 @@
+name: KidZone
+favicon: null
+layout_spectrum: 0.9656212721019983
+typography_spectrum: 0.13009658292867243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9043978238478303
+  lightness: 0.15914783836342394
+  saturation: 0.4332313083577901
+  rhythmicContrast: 0.13631843496114016
+purpose: []
