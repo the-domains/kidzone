@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KidZone]]></title>
         <description><![CDATA[KidZone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kidzone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 20:15:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 04:40:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kidzone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad6dad1-a7eb-451b-a518-5b25b4991f15.jpg">]]></description>
-            <link>undefinedkids/index.html</link>
+            <link>https://thegrid.ai/kidzone/kids/index.html</link>
             <guid isPermaLink="false">fba680c6-f3bd-4dd1-a561-c051d7b4a031</guid>
-            <pubDate>Sat, 14 May 2016 20:14:41 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 04:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
